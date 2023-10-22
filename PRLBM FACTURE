@@ -1,0 +1,15 @@
+ M=input("donnez le nom du client")
+
+ S=int(input("combien darticles vous voulez"))
+ A=[]
+
+ for i in range(S)
+
+ A[i]=int(input("donnez les prix des articles svp")
+
+ W=sum(A)
+
+ print("le prix total a payer est :", W)
+
+
+
